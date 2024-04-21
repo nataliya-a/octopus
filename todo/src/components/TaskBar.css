@@ -1,0 +1,12 @@
+
+
+.task-bar{
+    background-color: #FF8534;
+    color: black;
+    font-weight: bold;
+    min-height: 12vh;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
